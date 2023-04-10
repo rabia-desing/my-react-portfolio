@@ -4,6 +4,21 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
+			name: 'Greg\'s List (Final Project)',
+			description:
+				'Greg\'s List is a website where you can list any item for sale. You can also browse different user\'s items as well. Once you find something you like, simply click the product and reach out via email to let the user know you\'re interested.',
+			image: 'greg_list.png',
+			technologies: [
+				'HTML/CSS',
+				'JavaScript',
+				'NODE Js',
+				'MongoDB',
+				'React',
+			],
+			github: 'https://github.com/rabia-desing/Greg-s-List-FYP',
+			deployed: 'https://github.com/rabia-desing/Greg-s-List-FYP',
+		},
+		{
 			name: 'Amazing Password Generator',
 			description:
 				'Amazing Password Generator application powered by JavaScript with clean code. You can choose what to include in your password by just clicking OK, cancel from the prompts.',
