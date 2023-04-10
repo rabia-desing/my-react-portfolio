@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.81c16a47.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.d93e9a22.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.d93e9a22.chunk.js.map",
-    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.89240807.js",
-    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.89240807.js.map",
+    "main.js": "/my-react-portfolio/static/js/main.8e7037c7.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.8e7037c7.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.d792e706.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.d792e706.js.map",
     "static/js/2.84757c6c.chunk.js": "/my-react-portfolio/static/js/2.84757c6c.chunk.js",
     "static/js/2.84757c6c.chunk.js.map": "/my-react-portfolio/static/js/2.84757c6c.chunk.js.map",
-    "static/js/3.ac62255c.chunk.js": "/my-react-portfolio/static/js/3.ac62255c.chunk.js",
-    "static/js/3.ac62255c.chunk.js.map": "/my-react-portfolio/static/js/3.ac62255c.chunk.js.map",
+    "static/js/3.6b243259.chunk.js": "/my-react-portfolio/static/js/3.6b243259.chunk.js",
+    "static/js/3.6b243259.chunk.js.map": "/my-react-portfolio/static/js/3.6b243259.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "precache-manifest.60d52967f81a55de9c51e63041c29cd8.js": "/my-react-portfolio/precache-manifest.60d52967f81a55de9c51e63041c29cd8.js",
+    "precache-manifest.96e069369e8b169d9f005794f40fba17.js": "/my-react-portfolio/precache-manifest.96e069369e8b169d9f005794f40fba17.js",
     "service-worker.js": "/my-react-portfolio/service-worker.js",
     "static/css/main.81c16a47.chunk.css.map": "/my-react-portfolio/static/css/main.81c16a47.chunk.css.map",
     "static/js/2.84757c6c.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.84757c6c.chunk.js.LICENSE.txt",
     "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.960cdece.png",
     "static/media/currency-converter.png": "/my-react-portfolio/static/media/currency-converter.66066330.png",
+    "static/media/greg_list.png": "/my-react-portfolio/static/media/greg_list.4e29e009.png",
     "static/media/password-generator.png": "/my-react-portfolio/static/media/password-generator.84b55d6d.png",
     "static/media/rabia-resume.pdf": "/my-react-portfolio/static/media/rabia-resume.5071eecb.pdf",
     "static/media/weather-forecast.png": "/my-react-portfolio/static/media/weather-forecast.7de25995.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89240807.js",
+    "static/js/runtime-main.d792e706.js",
     "static/js/2.84757c6c.chunk.js",
     "static/css/main.81c16a47.chunk.css",
-    "static/js/main.d93e9a22.chunk.js"
+    "static/js/main.8e7037c7.chunk.js"
   ]
 }
